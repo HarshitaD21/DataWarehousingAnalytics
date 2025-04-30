@@ -1,14 +1,18 @@
-# DataWarehousingAnalytics
+# 📊 DataWarehousingAnalytics
 
-A hands-on SQL project focused on data warehousing and analytics, demonstrating expertise in metric computation, time-based trend analysis, and segmentation.A comprehensive collection of SQL scripts designed for data exploration, analytics, and reporting. The project showcases real-world business use cases like customer retention, sales performance, and cumulative reporting using modular SQL scripts optimized for analytical workflows.
+A hands-on SQL project focused on data warehousing and analytics, showcasing expertise in metric computation, time-based trend analysis, and segmentation. This project is a comprehensive collection of SQL scripts designed for data exploration, business reporting, and strategic insights. It reflects real-world scenarios such as customer retention, sales performance tracking, and cumulative business reporting using modular SQL workflows.
 
 
-```
+
+## 📂 Project Structure
+
+```plaintext
 DataWarehousingAnalytics/
-├── datasets/             # Contains sample datasets used for analysis
+├── datasets/             # Sample datasets used for analysis
 ├── script_basic/         # Basic SQL scripts for initial data exploration
 ├── scripts/              # Advanced SQL scripts for in-depth analytics
 ├── README.md             # Project documentation
+
 ```
 
 🛠️ Features
