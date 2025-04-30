@@ -45,8 +45,10 @@ Execute the desired SQL scripts using your database's query tool.
 
 
 
-📈 Sample Analyses
-Customer Retention Rates: Determine how well the business retains customers over time.
-Sales Trends: Analyze sales performance across different periods.
-Product Performance: Identify top-performing products based on sales and customer feedback.
+## 📈 Sample Analyses
+
+- **Customer Retention Rates**: Determine how well the business retains customers over time.  
+- **Sales Trends**: Analyze sales performance across different periods.  
+- **Product Performance**: Identify top-performing products based on sales and customer feedback.
+
 
