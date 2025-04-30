@@ -30,16 +30,16 @@ Relational Databases: Designed to work with standard relational database systems
 
 Start:
 1. Clone the Repository:
-git clone https://github.com/HarshitaD21/DataWarehousingAnalytics.git
-cd DataWarehousingAnalytics
+   git clone https://github.com/HarshitaD21/DataWarehousingAnalytics.git
+   cd DataWarehousingAnalytics
 
 2. Set Up Your Database:
-Import the datasets from the datasets/ directory into your SQL database.
+   Import the datasets from the datasets/ directory into your SQL database.
 
 
 3. Run SQL Scripts:
-Navigate to the script_basic/ or scripts/ directory.
-Execute the desired SQL scripts using your database's query tool.
+   Navigate to the script_basic/ or scripts/ directory.
+   Execute the desired SQL scripts using your database's query tool.
 
 
 📈 Sample Analyses
