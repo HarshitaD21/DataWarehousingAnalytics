@@ -39,9 +39,10 @@ Start:
    Import the datasets from the datasets/ directory into your SQL database.
 
 
-3. Run SQL Scripts:
-   Navigate to the script_basic/ or scripts/ directory.
-   Execute the desired SQL scripts using your database's query tool.
+3. **Run SQL Scripts**:  
+Navigate to the `script_basic/` or `scripts/` directory.  
+Execute the desired SQL scripts using your database's query tool.
+
 
 
 📈 Sample Analyses
