@@ -29,9 +29,11 @@ Relational Databases: Designed to work with standard relational database systems
 
 
 Start:
-1. Clone the Repository:
+1. **Clone the Repository**:
+   ```bash
    git clone https://github.com/HarshitaD21/DataWarehousingAnalytics.git
    cd DataWarehousingAnalytics
+
 
 2. Set Up Your Database:
    Import the datasets from the datasets/ directory into your SQL database.
